@@ -220,6 +220,10 @@ class Java_withMosh {
         for (String fruit : fruits)
             System.out.println(fruit);
 
+
+        
+        // here iam adding a comment.
+
     }
 
 }
